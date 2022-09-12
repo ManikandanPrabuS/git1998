@@ -23,7 +23,8 @@ public class GitInJava {
 		System.out.println(price);
 		System.out.println(verkadala);
 		
-		
+		System.out.println("your Salary is:"+salary);
+		System.out.println("your pincode is:"+pincode);
 
 	}
 
