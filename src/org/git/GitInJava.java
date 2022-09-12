@@ -23,9 +23,17 @@ public class GitInJava {
 		System.out.println(price);
 		System.out.println(verkadala);
 		
+		System.out.println("your Salary is:"+salary);
+		System.out.println("your pincode is:"+pincode);
+		
 		System.out.println("Your name is:"+name);
 		System.out.println("Your age is:"+age);
-		
+//<<<<<<< HEAD
+//		
+//=======
+//		
+//		
+//>>>>>>> a4a1b98229555598cc7c8648ab9e72ed535e3b01
 
 	}
 
