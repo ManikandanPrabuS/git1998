@@ -23,6 +23,8 @@ public class GitInJava {
 		System.out.println(price);
 		System.out.println(verkadala);
 		
+		System.out.println("Your name is:"+name);
+		System.out.println("Your age is:"+age);
 		
 
 	}
